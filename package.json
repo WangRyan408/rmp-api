@@ -1,7 +1,7 @@
 {
-  "name": "ratemyprofessor-api",
+  "name": "rmp-api",
   "keywords": ["ratemyprofessor", "rmp", "professor", "rate my professor", "rate", "api", "graphql"],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": " A wrapper for the Rate My Professor (RMP) GraphQL database",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
