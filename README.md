@@ -1,4 +1,4 @@
-A basic, up-to-date (as of August 2024) wrapper for RateMyProfessor's GraphQL API built using typescript. 
+A basic, up-to-date (as of August 2024) wrapper for RateMyProfessor's GraphQL API built using typescript. Forked to add course codes into the response. Also hard coded for SJSU
 
 ## Usage
 ```js
